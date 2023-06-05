@@ -12,7 +12,7 @@ Plugins erlauben sowohl _Schreibenzugriff_ also auch _Lesezugriff_. Wenn das Plu
 
 Das `modbus` Plugin kann Daten von jedem ModBus fähigen Gerät oder SunSpec-kompatiblen Wechselrichter lesen. Viele Strommessgeräte sind bereits vorkonfiguriert (siehe [MBMD Supported Devices](https://github.com/volkszaehler/mbmd#supported-devices)). Es ist ebenfalls möglich Modbus Register zu Schreiben um weitere Wallboxen zu integrieren.
 
-Für weitere Details siehe die [Modbus Dokumentation](modbus)
+Für weitere Details siehe die [Modbus Dokumentation]([modbus]([/docs/reference/modbus/)))
 
 ## MQTT (lesen/schreiben)
 
